@@ -1,0 +1,12 @@
+MONOPOLY
+
+Alle leeftijden
+Min. 3 Spelers
+
+ALs je land op speciaal vakje kan je kiezen:
+
+1) Vraag beantwoorden                   (350)
+2) Vraag beantwoorden Tegen ander team  (500)
+3) Random beloning of straf             (50-500)
+
+Rest is zelfde regels als normaal monopoly
