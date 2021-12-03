@@ -1,0 +1,6 @@
+test.js
+
+Werkt op HTML
+NIET op microbit
+
+Heeft een basic timer met soreboard

@@ -1,0 +1,7 @@
+WERKENDE.js
+
+Werkt NIET op HTML
+WERKT op microbit
+
+Heeft een basic timer met soreboard
+MET categorieën
