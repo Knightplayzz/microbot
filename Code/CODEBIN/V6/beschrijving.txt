@@ -1,0 +1,10 @@
+new.js
+
+Werkt NIET op HTML
+WERKT op microbit
+
+Heeft een basic timer met soreboard
+MET categorieën
+Timer start automatisch
+Met wedstrijden systeem
+Met geluiden voor: 1) Timer time     2) team 1/2     3) Opstarten   4) fout/goed
